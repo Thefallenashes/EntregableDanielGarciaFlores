@@ -2,3 +2,8 @@ h1 {
     size: 20px;
     color: aquamarine;
 }
+img {
+    width: 500px;
+    border-radius: 10px;
+
+}
